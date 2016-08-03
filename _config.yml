@@ -1,16 +1,16 @@
-typography_spectrum: 0.9978889792691916
+typography_spectrum: 0.6896907368209213
 color:
-  brandStrength: 0.8082458944991231
-  lightness: 0.8921802791301161
-  saturation: 0.9778287985827774
-  rhythmicContrast: 0.22682518605142832
+  brandStrength: 0.9893252970650792
+  lightness: 0.6085655658971518
+  saturation: 0.447173816151917
+  rhythmicContrast: 0.44082679972052574
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.17947496380656958
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.08268325566314161
 name: line
 title: Lines
 description: no tagline
