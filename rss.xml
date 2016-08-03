@@ -4,15 +4,8 @@
         <description><![CDATA[Lines]]></description>
         <link>https://thegrid.ai/line/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 21:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 21:19:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/line/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[{{ pageTitle }}]]></title>
-            <description><![CDATA[<article><h1>{{ pageTitle }}</h1><p>pageDescription || 'Elke dag 8 uitstekende artikelen verrijkt met adembenemende fotografie Gekozen uit een selectie van NRC journalistiek, gemaakt voor uw telefoon, tablet of pc' }}</p></article>]]></description>
-            <link>http://www.nrcreader.nl/artikel/1344/vergeet-de-bom-napalm-deed-het-werk</link>
-            <guid isPermaLink="false">05f18168-1729-4b0f-95f8-a5c3a2bd8875</guid>
-            <pubDate>Wed, 03 Aug 2016 21:18:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cab9ded0-7d57-403b-b1e6-080e308865c3.jpg">]]></description>
