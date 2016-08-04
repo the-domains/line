@@ -1,14 +1,14 @@
 ---
-description: ‘We were all congratulated when we had our first kills’
-dateModified: '2016-08-04T21:56:05.352Z'
-datePublished: '2016-08-04T21:58:03.744Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-04T22:02:10.272Z'
 sourcePath: >-
   _posts/2016-08-04-iraq-war-veteran-throws-throws-his-medals-and-stars-and-exp.md
+author: []
+via: {}
+dateModified: '2016-08-04T22:02:09.167Z'
+title: ''
+publisher: {}
+description: ‘We were all congratulated when we had our first kills’
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
