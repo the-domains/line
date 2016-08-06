@@ -4,8 +4,15 @@
         <description><![CDATA[Lines]]></description>
         <link>https://thegrid.ai/line/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 22:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 22:06:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/line/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eugene Stoner]]></title>
+            <description><![CDATA[<article><h1>Eugene Stoner</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a1e9788c012ee61671927b1720307e9d/noop?input=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fguns%2Fimages%2F0%2F03%2FSTONER.jpg%2Frevision%2Flatest%3Fcb%3D20090810083149"></article>]]></description>
+            <link>http://vignette1.wikia.nocookie.net/guns/images/0/03/STONER.jpg/revision/latest?cb=20090810083149</link>
+            <guid isPermaLink="false">31c67964-6c4a-40b1-bdea-425c5df452ed</guid>
+            <pubDate>Sat, 06 Aug 2016 22:06:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eugene Stoner]]></title>
             <description><![CDATA[<article><h1>Eugene Stoner</h1><p>Eugene Morrison Stoner (November 22, 1922 - April 24, 1997) was an American firearms designer who is most associated with the development of the AR-15 rifle that was adopted by the US military as the M16. He is regarded by some historians as one of the most successful firearms designers of the 20th century.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51d5de6c812fb61cde85f9ea8ea41598/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd2%2FStag2wi.jpg%2F220px-Stag2wi.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/line/69855920-3695-4144-b19f-29b9b70eda39/index.html</link>
             <guid isPermaLink="false">69855920-3695-4144-b19f-29b9b70eda39</guid>
             <pubDate>Wed, 03 Aug 2016 20:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vietnam Lost Films 3/6 - The TET Offensive [1968]]]></title>
-            <description><![CDATA[<article><h1>Vietnam Lost Films 3/6 - The TET Offensive [1968]</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40e70c3ecb2e2213ac9fd7ac3a00b9d5/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQy1CZrVsbSY%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Qy1CZrVsbSY</link>
-            <guid isPermaLink="false">bdf8db48-59e2-4bb5-b4c9-6a22350004b7</guid>
-            <pubDate>Wed, 03 Aug 2016 20:03:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
