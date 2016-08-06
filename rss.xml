@@ -4,8 +4,15 @@
         <description><![CDATA[Lines]]></description>
         <link>https://thegrid.ai/line/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 22:39:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/line/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coca-Cola, 1971 - 'Hilltop' | "I'd like to buy the world a Coke"]]></title>
+            <description><![CDATA[<article><h1>Coca-Cola, 1971 - 'Hilltop' | "I'd like to buy the world a Coke"</h1><p>Project Re: Brief by Google</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b673446c12cff36a9d5568f21f284eb3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F1VM2eLhvsSM%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1VM2eLhvsSM</link>
+            <guid isPermaLink="false">eabfe88a-f6df-4907-b930-92e88dd693a4</guid>
+            <pubDate>Sat, 06 Aug 2016 22:39:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eugene Stoner]]></title>
             <description><![CDATA[<article><h1>Eugene Stoner</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7142d866d4f77ce8457766fc0b1aad1d/noop.jpg?input=http%3A%2F%2F66.media.tumblr.com%2F46cde5735245bf6d99a764a9872cd595%2Ftumblr_nhoqdrHlUE1s57vgxo1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Napalm</link>
             <guid isPermaLink="false">53f15534-6058-4041-b5ff-decb5bdb6003</guid>
             <pubDate>Wed, 03 Aug 2016 21:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cab9ded0-7d57-403b-b1e6-080e308865c3.jpg">]]></description>
-            <link>https://thegrid.ai/line/69855920-3695-4144-b19f-29b9b70eda39/index.html</link>
-            <guid isPermaLink="false">69855920-3695-4144-b19f-29b9b70eda39</guid>
-            <pubDate>Wed, 03 Aug 2016 20:28:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
