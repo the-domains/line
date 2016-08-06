@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T14:44:47.363Z'
+datePublished: '2016-08-06T14:47:37.781Z'
 sourcePath: _posts/2016-08-06--he-was-a-marine-in-world-war-2---my-father-was--op.md
 author: []
 via: {}
-dateModified: '2016-08-06T14:44:46.388Z'
+dateModified: '2016-08-06T14:47:36.963Z'
 title: ''
 publisher: {}
 description: >-
