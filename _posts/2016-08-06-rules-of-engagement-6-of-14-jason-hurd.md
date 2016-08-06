@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=tj4yWjL-j7k'
 title: Rules of Engagement (6 of 14) - Jason Hurd
-datePublished: '2016-08-06T13:25:30.427Z'
-dateModified: '2016-08-06T13:25:06.240Z'
+datePublished: '2016-08-06T13:30:14.889Z'
+dateModified: '2016-08-06T13:29:52.971Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-06-rules-of-engagement-6-of-14-jason-hurd.md
