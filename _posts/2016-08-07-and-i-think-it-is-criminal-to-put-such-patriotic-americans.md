@@ -1,18 +1,18 @@
 ---
-description: >-
-  ..and I think it is criminal to put such patriotic Americans who have sworn a
-  oath to support and defend The Constitution of The United States of America in
-  a situation where their morels are [altered/outerd by] their survival
-  instincts ..
-dateModified: '2016-08-07T09:27:57.635Z'
-datePublished: '2016-08-07T09:28:54.846Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-07T10:51:30.164Z'
 sourcePath: >-
   _posts/2016-08-07-and-i-think-it-is-criminal-to-put-such-patriotic-americans.md
+author: []
+via: {}
+dateModified: '2016-08-07T10:51:29.511Z'
+title: ''
+publisher: {}
+description: >-
+  ..and I think it is criminal to put such patriotic Americans who have sworn an
+  oath to support and defend The Constitution of The United States of America in
+  a situation where their morals are [altered/outerd by] their survival
+  instincts ..
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -21,4 +21,4 @@ _type: MediaObject
 ---
 ![https://www.youtube.com/watch?v=PEJnCf4WQaA](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe12334e-eb5f-433e-a759-6012a92d6a65.jpg)
 
-..and I think it is criminal to put such patriotic Americans who have sworn a oath to support and defend The Constitution of The United States of America in a situation where their morels are \[altered/outerd by\] their survival instincts ..
+..and I think it is criminal to put such patriotic Americans who have sworn an oath to support and defend The Constitution of The United States of America in a situation where their morals are \[altered/outerd by\] their survival instincts ..
